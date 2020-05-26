@@ -2582,8 +2582,8 @@ fieldset:disabled a.btn {
 
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
-  border-color: #5cb85c;
+  background-color: #5c585c;
+  border-color: #5c585c;
 }
 
 .btn-success:hover {
@@ -4976,7 +4976,7 @@ tbody.collapse.show {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #4E5D6C;
+  background-color: #28534f;
   border-radius: 0;
 }
 
@@ -6122,7 +6122,7 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #DF691A !important;
+  background-color: #9F691A !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6172,7 +6172,7 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-  background-color: #d9534f !important;
+  background-color: #28534f !important;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
